@@ -1,0 +1,16 @@
+Time=0  | Requested Floor=0 | Current Floor=0
+Time=10 | Requested Floor=3 | Current Floor=0
+Time=15 | Requested Floor=3 | Current Floor=1
+Time=25 | Requested Floor=3 | Current Floor=2
+Time=35 | Requested Floor=3 | Current Floor=3
+
+Time=50 | Requested Floor=1 | Current Floor=3
+Time=55 | Requested Floor=1 | Current Floor=2
+Time=65 | Requested Floor=1 | Current Floor=1
+
+Time=80 | Requested Floor=2 | Current Floor=1
+Time=85 | Requested Floor=2 | Current Floor=2
+
+Time=100 | Requested Floor=0 | Current Floor=2
+Time=105 | Requested Floor=0 | Current Floor=1
+Time=115 | Requested Floor=0 | Current Floor=0
